@@ -10,9 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "node": "^22.13.0",
     "randomkey": "file:",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "uuid": "^11.0.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
